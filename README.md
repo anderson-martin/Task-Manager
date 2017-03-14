@@ -1,16 +1,22 @@
 # Task-Manager
 
-## Table of Contents  
+## Table of Contents
+[What is this?](#whatisthis) 
+[What's special about this?](#special)  
 [Architecture](#Architecture)  
+[How does this look like?](#look) 
+[Technology stack & codes](#stack)
 
-### What is it?
+<a name="whatisthis"/>
+### What is this?
 Task-Manager enables companies to assign tasks to their employees and manage their activities. 
 Me and my classmates did this as part of our school project. For designing this application, we analyzed organizational structure of S-market (in Finland), and this application is an efficient solution for their communicational problem. However, this app can be used for any other big organization too. 
 
 ###### This image depicts our solution idea. Groups can manage and be managed. Each user can belong to multiple groups. HR has the authority to define the authority levels.
 ![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/eight.jpg)
 
-### What's special about it?
+<a name="special"/>
+### What's special about this?
 
 It's highly scalable! You can create unlimited number of hieracrhy levels (=group) in your organization, each having customized authority and communicates effectively with it's supperior and lower level groups. While you recieve tasks from your higher level groups, you can assign tasks to your lower levels. Also, in case of any problem, you can file an issue and send to your managers.
 
@@ -23,7 +29,8 @@ It's highly scalable! You can create unlimited number of hieracrhy levels (=grou
 ###### There are two separate servers. Node Express Server serves static files (JS, CSS files), runs Frontend stack (Redux) and procies the API requests to the API server (Java EE)
 ![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/ten.jpg)
 
-### How does it look like?
+<a name="look"/>
+### How does this look like?
 
 ###### Login page including some introductions
 ![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/one.png)
@@ -52,8 +59,8 @@ It's highly scalable! You can create unlimited number of hieracrhy levels (=grou
 ###### HR has access and can change details of each user
 ![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/seven.jpg)
 
-
-### Technology stack & codes
+<a name="stack"/>
+### Technology stack & Codes
 #### Backend
 JAX-RS, Jersey 2.25.1, JPA, Hibernate 5.2.7, Junit 5, Maven, Glassfish Server
 
