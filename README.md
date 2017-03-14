@@ -11,6 +11,12 @@
 
 [Technology stack & codes](#stack)
 
+
+
+
+
+
+
 <a name="whatisthis"/>
 
 ### What is this all about?
