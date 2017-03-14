@@ -19,10 +19,10 @@
 
 <a name="whatisthis"/>
 
-### What is this all about?
+### What's this all about?
 
 Task-Manager enables companies to assign tasks to their employees and manage their activities. 
-Me and my classmates did this as part of our school project. For designing this application, we analyzed organizational structure of S-market (in Finland), and this application is an efficient solution for their communicational problem. However, this app can be used for any other big organization too. 
+Me and my classmates did this as part of our school project. For designing this application, we analyzed organizational structure of S-market (in Finland), and this application is an efficient solution for their communicational problem. However, this app can be used for any other (big) organization too. 
 
 ###### This image depicts our solution idea. Groups can manage and be managed. Each user can belong to multiple groups. HR has the authority to define the authority levels.
 ![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/eight.jpg)
