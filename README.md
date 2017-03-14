@@ -20,9 +20,9 @@ Me and my classmates did this as part of our school project. For designing this 
 ###### This image depicts our solution idea. Groups can manage and be managed. Each user can belong to multiple groups. HR has the authority to define the authority levels.
 ![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/eight.jpg)
 
-<a name="special"/>
-### What's special about this?
 
+### What's special about this?
+<a name="special"/>
 It's highly scalable! You can create unlimited number of hieracrhy levels (=group) in your organization, each having customized authority and communicates effectively with it's supperior and lower level groups. While you recieve tasks from your higher level groups, you can assign tasks to your lower levels. Also, in case of any problem, you can file an issue and send to your managers.
 
 ###### This image depcts a typical application case: different level of hierarchies branching from top level management. There is no limit for number of hierachies!
