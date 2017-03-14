@@ -2,13 +2,18 @@
 
 ## Table of Contents
 [What is this?](#whatisthis) 
-[What's special about this?](#special)  
+
+[What's special about this?](#special) 
+
 [Architecture](#Architecture)  
-[How does this look like?](#look) 
+
+[User Interface](#look) 
+
 [Technology stack & codes](#stack)
 
 <a name="whatisthis"/>
 ### What is this?
+
 Task-Manager enables companies to assign tasks to their employees and manage their activities. 
 Me and my classmates did this as part of our school project. For designing this application, we analyzed organizational structure of S-market (in Finland), and this application is an efficient solution for their communicational problem. However, this app can be used for any other big organization too. 
 
@@ -30,7 +35,7 @@ It's highly scalable! You can create unlimited number of hieracrhy levels (=grou
 ![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/ten.jpg)
 
 <a name="look"/>
-### How does this look like?
+### User Interface
 
 ###### Login page including some introductions
 ![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/one.png)
