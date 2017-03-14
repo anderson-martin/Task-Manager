@@ -1,7 +1,7 @@
 # Task-Manager
 
 ## Table of Contents
-[What is this?](#whatisthis) 
+[What's this all about?](#whatisthis) 
 
 [What's special about this?](#special) 
 
@@ -13,7 +13,7 @@
 
 <a name="whatisthis"/>
 
-### What is this?
+### What is this all about?
 
 Task-Manager enables companies to assign tasks to their employees and manage their activities. 
 Me and my classmates did this as part of our school project. For designing this application, we analyzed organizational structure of S-market (in Finland), and this application is an efficient solution for their communicational problem. However, this app can be used for any other big organization too. 
