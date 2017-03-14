@@ -4,9 +4,21 @@
 Task-Manager enables companies to assign tasks to their employees and manage their activities. 
 Me and my classmates did this as part of our school project. For designing this application, we analyzed organizational structure of S-market (in Finland), and this application is an efficient solution for their communicational problem. However, this app can be used for any other big organization too. 
 
+This image depicts our solution idea. Groups can manage and be managed. Each user can belong to multiple groups. HR has the authority to define the authority levels.
+![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/eight.jpg)
+
 ## What's special about it?
 
 It's highly scalable! You can create unlimited number of hieracrhy levels (=group) in your organization, each having customized authority and communicates effectively with it's supperior and lower level groups. While you recieve tasks from your higher level groups, you can assign tasks to your lower levels. Also, in case of any problem, you can file an issue and send to your managers.
+
+This image depcts a typical application case: different level of hierarchies branching from top level management. There is no limit for number of hierachies!
+![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/nine.jpg)
+
+
+## Architecture
+
+There are two separate servers. Node Express Server serves static files (JS, CSS files), runs Frontend stack (Redux) and procies the API requests to the API server (Java EE)
+![alt tag](https://github.com/anderson-martin/Task-Manager/blob/master/pictures/ten.jpg)
 
 ## How does it look like?
 
