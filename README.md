@@ -46,8 +46,10 @@ JAX-RS, Jersey 2.25.1, JPA, Hibernate 5.2.7, Junit 5, Maven, Glassfish Server
 React, Redux, Jest, Express Mock API, Express Production Server
 
 You can find Frontend and backend codes in following repositories:
-(Following repos are my backups - original repos are on my groupmates repos)
+(Following repos are backups that I got from our common repos)
+
 [Back-end repository](https://github.com/anderson-martin/TaskManager-Backend)
+
 [Front-end repository](https://github.com/anderson-martin/TaskManager-FrontEnd)
 
 
